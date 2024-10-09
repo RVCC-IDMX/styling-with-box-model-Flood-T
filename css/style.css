@@ -13,6 +13,10 @@
 
 }
 .box-two{
-    background-color: aqua;
+    background-color: grey;
     border:0px solid red;
+    padding:20px;
+    margin:20px;
+    border-width: 20px;
+
 }
